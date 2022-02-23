@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IoTPM25</string>
+
+    <!--    Title-->
+    <string name="text_title_today">Today</string>
+    <string name="text_title_humidity">Humidity</string>
+    <string name="text_title_temperature">Temperature</string>
+    <string name="text_title_pm">PM2.5</string>
+
+    <!--    Unit-->
+    <string name="text_unit_humidity">%</string>
+    <string name="text_unit_temperature">°C</string>
+    <string name="text_unit_pm">µg./m3</string>
+
+    <!--    Describe-->
+    <string name="text_describe_good">Good</string>
+    <string name="text_describe_moderate">Moderate</string>
+    <string name="text_describe_unhealthy_for_sensitive_groups">Unhealthy for Sensitive Groups</string>
+    <string name="text_describe_unhealthy">Unhealthy</string>
+    <string name="text_describe_very_unhealthy">Very Unhealthy</string>
+    <string name="text_describe_hazardous">Hazardous</string>
+
+    <!--    Button-->
+    <string name="text_button_auto">Auto</string>
+    <string name="text_button_night">Night</string>
+    <string name="text_button_heart">Heart</string>
+</resources>
